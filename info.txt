@@ -1,1 +1,3 @@
 message to ammend to previous commit.
+
+Commit #2 during squash activity
